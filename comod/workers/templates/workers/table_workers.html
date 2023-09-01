@@ -1,0 +1,25 @@
+{% extends 'workers/base.html' %}
+
+{% block content %}
+<h1>{{title}}</h1>
+<b>(Здесь должна быть форма таблицы сотрудников)</b>
+
+  <table>
+
+   <tr>
+       <th>Имя</th>
+       <th>Должность</th>
+       <th>Рабочих часов в месяц</th>
+       <th>Отпуск в этом месяце</th>
+   </tr>
+      {% for raw in table %}
+      <tr>
+          <td>{{raw.name}}</td>
+          <td>{{raw.position}}</td>
+          <td>{{raw.working_hours_month}} ч,</td>
+          <td>{{raw.holiday_this_month}}</td>
+      </tr>
+    {% endfor %}
+  </table>
+
+{% endblock %}
