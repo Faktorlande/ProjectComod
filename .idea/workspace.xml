@@ -4,7 +4,110 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16e75135-1893-42cb-af35-4420bf3b274e" name="Changes" comment="" />
+    <list default="true" id="16e75135-1893-42cb-af35-4420bf3b274e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/mainpage/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comod/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/818bb668-0306-4030-92bb-b4bd95795b0b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/818bb668-0306-4030-92bb-b4bd95795b0b.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comod/comod/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/comod/comod/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comod/comod/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/comod/comod/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comod/mainpage/templates/mainpage/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comod/mainpage/templates/mainpage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/comod/mainpage/templates/mainpage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comod/mainpage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/comod/mainpage/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comod/workers/templates/workers/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comod/workers/templates/workers/base_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/comod/mainpage/static/mainpage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comod/workers/templates/workers/table_workers.html" beforeDir="false" afterPath="$PROJECT_DIR$/comod/workers/templates/workers/table_workers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comod/workers/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/comod/workers/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +116,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -32,31 +135,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/project_comod/comod/mainpage/static/mainpage&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/django/selfedudj",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\project_comod\comod\static" />
+      <recent name="G:\project_comod\comod" />
       <recent name="G:\project_comod\comod\mainpage\static\mainpage" />
+      <recent name="G:\project_comod\comod\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\project_comod\comod\templates" />
+      <recent name="G:\project_comod\comod" />
+      <recent name="G:\project_comod\comod\static\css" />
       <recent name="G:\project_comod\comod\mainpage\static\mainpage\js" />
       <recent name="G:\project_comod\comod\mainpage\static\mainpage" />
     </key>
@@ -79,7 +189,15 @@
       <workItem from="1693226515520" duration="421000" />
       <workItem from="1693413127153" duration="2405000" />
       <workItem from="1694016902742" duration="10112000" />
-      <workItem from="1694102685722" duration="3547000" />
+      <workItem from="1694102685722" duration="3748000" />
+      <workItem from="1694113618330" duration="1139000" />
+      <workItem from="1695014968192" duration="888000" />
+      <workItem from="1695017880808" duration="375000" />
+      <workItem from="1695018381835" duration="1554000" />
+      <workItem from="1695026098912" duration="4792000" />
+      <workItem from="1695104911166" duration="3416000" />
+      <workItem from="1695108475033" duration="56000" />
+      <workItem from="1695108563745" duration="5620000" />
     </task>
     <servers />
   </component>

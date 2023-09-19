@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Главная страница</title>
-</head>
-<body>
+{% extends 'base.html' %}
 
-</body>
-</html>
+{% block title %} Главная страница {% endblock %}
+
+{% block button %}
+<div class="row text-end py-2">
+    <div class="col-7 border border-primary text-end">
+        <button type="button" class="btn btn-outline-light">Войти</button>
+    </div>
+    <div class="col-5 border border-primary text-start">
+        <button type="button" class="btn btn-primary bg-gradient">Регистрация</button>
+    </div>
+</div>
+{% endblock %}
